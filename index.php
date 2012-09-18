@@ -19,13 +19,13 @@ require(CLIENTINC_DIR.'header.inc.php');
 ?>
 
 <div id="landing_page">
-    <h1>Welcome to the Support Center</h1>
+    <h1>Bienvenue au Support Technique</h1>
     <p>
-        In order to streamline support requests and better serve you, we utilize a support ticket system. Every support request is assigned a unique ticket number which you can use to track the progress and responses online. For your reference we provide complete archives and history of all your support requests. A valid email address is required to submit a ticket.
+        Pour mieux vous servir et afin de pouvoir garder un historique de vos demandes, nous utilisons un système de support par tickets. Chaque demande de ticket reçois un numéro de ticket unique que vous pouvez utiliser pour consulter la progression et les réponses en ligne. Nous fournissons les archives et l'historique de toutes vos demandes au support. Une adresse courriel valide est nécessaire pour ouvrit un ticket .
     </p>
 
     <div id="new_ticket">
-        <h3>Open A New Ticket</h3>
+        <h3>Ouvrir un Nouveau Ticket</h3>
         <br>
         <div>Please provide as much detail as possible so we can best assist you. To update a previously submitted ticket, please login.</div>
         <p>
